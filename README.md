@@ -1,6 +1,6 @@
 # 🚀 Full-Stack .NET Development Journey
 
-> **Documenting projects and work during:** > [**C# & .NET Full-Stack Specialization**](https://www.coursera.org/)
+> **Documenting projects and work during:** > [**C# & .NET Full-Stack Specialization**]((https://www.coursera.org/professional-certificates/microsoft-full-stack-developer))
 
 ---
 
